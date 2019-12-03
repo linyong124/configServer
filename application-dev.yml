@@ -1,2 +1,2 @@
-application-dev:
+application-client:
   server: application-dev
