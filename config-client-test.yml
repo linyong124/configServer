@@ -1,2 +1,4 @@
-application:
+application-client:
   server: application-test11
+application11:
+  server: application11111
